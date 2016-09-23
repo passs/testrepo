@@ -1,4 +1,4 @@
-this is afile from local repo
+this is a file from local repo
 
 Alright, got the changes here, let's change something here
 
